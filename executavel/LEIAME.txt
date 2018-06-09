@@ -1,0 +1,69 @@
+Unzip the program folder
+Open the program folder
+Click on the executable file with the right mouse button
+Access the "create desktop shortcut"
+Go to the desktop
+Run the program by clicking on the created shortcut
+A login window will open
+login: admin
+Password:
+Click "OK"
+A window will open for connection to the device.
+Connect the Arduino through the USB port
+Press the "Connection" button
+The system will look for the Arduino port
+As soon as you find it, the "COMx" port will appear in the window (x is the port number)
+After the system completes the connection (1 second), it will open the main program window
+In the main window,
+enter the "Execute" menu
+Appear 4 intens, click on "Dimmer" to explore the operation.
+The dimmer has 4 channels, each from 0 to 100%. There are 8 dimmer addresses,
+A, B, C, D, E, F, G, H. By default, comes program "A", but to change
+using the arrow.
+The "time" control with slide button, serves to change the transition time
+between the current value and the new dimerization value sent. From 0 to 100 s.
+Comes programmed with 0 seconds.
+Close the window by clicking "OK".
+Returns to the main window.
+Choose "ON-OFF", to turn on and off lamps,
+and "sensors", which shows the current value of sensors connected in the automation.
+If the system disconnects during use,
+use the "Connection" menu to reconnect.
+To exit, enter the menu and "Exit".
+Any doubts: junior7009 skype or junior700.eletro@gmail.com
+
+
+
+
+
+Descompacte a pasta do programa
+Abra a pasta do programa
+Click sobre o arquivo executável com o botão direito do mouse
+Acesse a opção "criar atalho na área de trabalho"
+Vá até a area de trabalho
+Execute o programa clickando no atalho criado
+Será aberta uma janela para login
+login: admin
+senha: 1234
+Click "OK"
+Será aberta uma janela para conexão com o dispositivo
+Concecte o Arduino através da porta USB
+Aperte o botão "conexão"
+O sistema vai procurar a porta do Arduino
+Assim que achar, aparecerá na janela a porta com "COMx" (x é o numero da porta)
+Após o sistema completar a conexão (1 segundo), abrirá a janela principal do programa
+Na janela principal, entre no menu "Executa"
+Aparecem 4 intens, click em "Dimmer" explore o funcionamento.
+O dimmer tem 4 canais, cada um de 0 a 100%. São 8 endereços de dimmer,
+A,B,C,D,E,F,G,H. Por default, vem programa endreço "A", mas da para mudar
+usando a seta. 
+O controle "tempo" com botão slide, serve para alterar o tempo de transição
+entre o valor atual e novo valor de dimerização enviado. De 0 a 100 s.
+Vem programado com 0 segundos.
+Feche a janela click "OK".
+Volta para a janela principal.
+Escolha "ON-OFF", para ligar e desligar lampadas,
+e "sensores", que mostra o valor atual de sensores ligados na automação.
+Se o sistema desconectar durante o uso, use o menu  "Conexão" para reconectar.
+Para encerrar, entre no menu finaliza e "Exit".
+Qualquer duvida: junior7009 skype ou junior700.eletro@gmail.com
